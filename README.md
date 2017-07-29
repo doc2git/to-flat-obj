@@ -17,7 +17,7 @@ let example2 = (...arg)=>{
     let flat-object = flat(arg);
     //TODO
 }
-
+```
 ```
 //example:
 console.log(flat([23, 32, true, 43], false, 2, 34, {23: 32, a: 'sdf  ss'}, 'dksfj'));
@@ -34,4 +34,5 @@ console.log(flat([23, 32, true, 43], false, 2, 34, {23: 32, a: 'sdf  ss'}, 'dksf
   dksfj: 'dksfj' }
 **/
 ```
-#### It's clearly, we can use it anyWhere, for any usage;
+
+#### It's clearly, we can use it anyWhere, for any usage, if we need;
